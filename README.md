@@ -1,3 +1,3 @@
 # README del repositorio 2
  
-Ahora estoy escribiendo en este fichero desde la rama 1037.
+Este es el texto definitivo con el que me quedo.
